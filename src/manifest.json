@@ -10,10 +10,15 @@
     "start_url": "/",
     "theme_color": "#ffffff",
     "categories": [
-        "utilities"
+        "kids",
+        "personalization"
     ],
-    "screenshots": [],
-    "icons": [],
+    "screenshots": [
+        "Test"
+    ],
+    "icons": [
+        "Test"
+    ],
     "shortcuts": [
         {
             "name": "Test",
